@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mysbeario/untitled-card-game.git"
+    "url": "git+https://github.com/vinh0212/weirdbox2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mysbeario/untitled-card-game/issues"
+    "url": "https://github.com/vinh0212/weirdbox2/issues"
   },
-  "homepage": "https://github.com/Mysbeario/untitled-card-game#readme",
+  "homepage": "https://github.com/vinh0212/weirdbox2#readme",
   "dependencies": {
     "@babel/core": "^7.14.3",
     "@babel/preset-react": "^7.13.13",
