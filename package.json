@@ -68,6 +68,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.24.0",
     "prettier": "^2.3.0",
-    "ts-node-dev": "^1.1.6"
+    "ts-node-dev": "^1.1.6",
+    "node-gyp": "^9.0.0"
   }
 }
