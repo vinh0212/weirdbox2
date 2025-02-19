@@ -11,8 +11,7 @@
     }
   },
   "engines": {
-    "node": "18.x",
-    "npm": "9.x"
+    "node": "18.x"
   },
   "scripts": {
     "dev-client": "if [ -d ./dist ]; then rm -r ./dist; fi && parcel ./client/index.html --target=frontend",
